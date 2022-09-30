@@ -391,5 +391,14 @@
         "id" : "69",
         "question" : "what if you get a good offer from other company?",
         "answerLink" : "https://www.job-applications.com/interview-questions/how-will-you-make-your-decision-if-given-multiple-job-offers/ "
-    }, 
+    },
+{
+    
+        "id" : "70",
+        "question" : " What's something that you didn't like about your last job?",
+        "answerLink" : "https://www.monster.com/career-advice/article/difficult-interview-questions "
+};
+        
+    
+    
 ]
